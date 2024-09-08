@@ -143,7 +143,7 @@ def check_api_key(api_key):
 
 
 with st.sidebar:
-    st.link_button("Github Repo", "https://github.com/DiZZi-bot/fullstack-gpt")
+    st.link_button("Github Repo", "https://github.com/znu4847/fullstack-gpt-app")
 
     # api_key
     if not st.session_state["OPENAI_API_KEY"]:
