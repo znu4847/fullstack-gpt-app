@@ -2,3 +2,4 @@ venv/
 .env
 study/06.RAG/.cache
 .cache
+test
